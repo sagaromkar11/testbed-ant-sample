@@ -4,3 +4,6 @@ phases:
   build:
     commands:
        - ant
+files:
+  - source: /
+    destination: /home/ec2-user
