@@ -5,5 +5,5 @@ phases:
     commands:
        - ant
 files:
-  - source: /
+  - source: /BuildArtif/
     destination: /home/ec2-user
